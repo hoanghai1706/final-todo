@@ -4,7 +4,7 @@ This project is the final exam for the Advanced Web Development subject at VNUK 
 
 ## Student Information
 
-- *Student:* Nguyễn Văn Tài
+- *Student:* Hoàng Đăng Hải
 - *Student ID:* 21020021
 - *Lecturer:* Nguyễn Hữu Quyền
 
