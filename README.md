@@ -1,6 +1,6 @@
 # Laravel TODO App
 
-This project is the final exam for the Advanced Web Development subject at VNUK Institute for Research and Executive Education. It is a TODO app built with Laravel.
+This project is the final exam for the Advanced Web Development subject of class 21CSE at VNUK Institute for Research and Executive Educationz
 
 ## Student Information
 
