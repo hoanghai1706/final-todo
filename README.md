@@ -65,10 +65,5 @@ To get started with this project, follow the steps below:
 
 [Link to Demo Video] : https://drive.google.com/file/d/1yyj_7JoP6yJBiJ6jhwesjnXJhrTpuKOs/view?usp=sharing
 
-## Tech
-Technologies used in this project:
 
-- Laravel - The Laravel PHP framework.
-- Livewire - Laravel Livewire.
-- Bootstrap - Bootstrap.
 
